@@ -5710,13 +5710,13 @@
         <Background Type="CT_RAW" Source="FF3E3E42" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
-      <Color Name="OverviewMarginVisible">
-        <Background Type="CT_RAW" Source="FF313640" />
-        <Foreground Type="CT_RAW" Source="FF313640" />
+       <Color Name="OverviewMarginVisible">
+        <Background Type="CT_RAW" Source="FF000000" />
+        <Foreground Type="CT_RAW" Source="FF686868" />
       </Color>
       <Color Name="OverviewMarginCaret">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF264F78" />
+        <Foreground Type="CT_RAW" Source="FFDCDCDC" />
       </Color>
       <Color Name="MarkerFormatDefinition/BookmarkInScrollBar">
         <Background Type="CT_RAW" Source="FFC0C4C0" />
