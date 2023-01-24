@@ -5156,7 +5156,7 @@
       </Color>
       <Color Name="punctuation">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF000000" />
+        <Foreground Type="CT_RAW" Source="FFBBBBBB" />
       </Color>
       <Color Name="string - verbatim">
         <Background Type="CT_INVALID" Source="00000000" />
