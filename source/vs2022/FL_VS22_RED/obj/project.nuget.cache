@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0VFwBPxq7vIzOeAliJfUZijvS1eRY8M7QLM6cCGtyJlyz+jZBIxBYWcaQJYmaCdfJAg/Scuy4Av5vkH8RemVCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Felipe\\Source\\FL_VS_THEME_DarkRed\\source\\vs2022\\FL_VS22_RED\\FL_VS22_RED.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.visualstudio.vsixcolorcompiler\\17.0.31709.430\\microsoft.visualstudio.vsixcolorcompiler.17.0.31709.430.nupkg.sha512"
+  ],
+  "logs": []
+}
