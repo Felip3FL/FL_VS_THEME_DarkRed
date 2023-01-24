@@ -5172,19 +5172,19 @@
       </Color>
       <Color Name="class name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFF8B1F2" />
+        <Foreground Type="CT_RAW" Source="FFC9A4FB" />
       </Color>
       <Color Name="delegate name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFF8B1F2" />
+        <Foreground Type="CT_RAW" Source="FFC9A4FB" />
       </Color>
       <Color Name="enum name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFF8B1F2" />
+        <Foreground Type="CT_RAW" Source="FFC9A4FB" />
       </Color>
       <Color Name="interface name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFF8B1F2" />
+        <Foreground Type="CT_RAW" Source="FFC9A4FB" />
       </Color>
       <Color Name="module name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5192,11 +5192,11 @@
       </Color>
       <Color Name="struct name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFF8B1F2" />
+        <Foreground Type="CT_RAW" Source="FFC9A4FB" />
       </Color>
       <Color Name="type parameter name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFF8B1F2" />
+        <Foreground Type="CT_RAW" Source="FFC9A4FB" />
       </Color>
       <Color Name="local name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -6272,7 +6272,7 @@
       </Color>
       <Color Name="enum member name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFF8B1F2" />
+        <Foreground Type="CT_RAW" Source="FFC9A4FB" />
       </Color>
       <Color Name="constant name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -6280,7 +6280,7 @@
       </Color>
       <Color Name="property name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFF8B1F2" />
+        <Foreground Type="CT_RAW" Source="FFC9A4FB" />
       </Color>
       <Color Name="event name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -6288,7 +6288,7 @@
       </Color>
       <Color Name="namespace name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFF8B1F2" />
+        <Foreground Type="CT_RAW" Source="FFC9A4FB" />
       </Color>
       <Color Name="label name">
         <Background Type="CT_INVALID" Source="00000000" />
