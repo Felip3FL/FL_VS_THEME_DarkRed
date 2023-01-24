@@ -5180,11 +5180,11 @@
       </Color>
       <Color Name="enum name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC9A4FB" />
+        <Foreground Type="CT_RAW" Source="FFFCB6FA" />
       </Color>
       <Color Name="interface name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC9A4FB" />
+        <Foreground Type="CT_RAW" Source="FFFCB6FA" />
       </Color>
       <Color Name="module name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5192,11 +5192,11 @@
       </Color>
       <Color Name="struct name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC9A4FB" />
+        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
       </Color>
       <Color Name="type parameter name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC9A4FB" />
+        <Foreground Type="CT_RAW" Source="FFFCB6FA" />
       </Color>
       <Color Name="local name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5204,7 +5204,7 @@
       </Color>
       <Color Name="parameter name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE98B4E" />
+        <Foreground Type="CT_RAW" Source="FFFCC5C6" />
       </Color>
       <Color Name="method name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5436,7 +5436,7 @@
       </Color>
       <Color Name="Operator">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFF97D81" />
+        <Foreground Type="CT_RAW" Source="FFE9E4E4" />
       </Color>
       <Color Name="Literal">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -6288,7 +6288,7 @@
       </Color>
       <Color Name="namespace name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC9A4FB" />
+        <Foreground Type="CT_RAW" Source="FFE9E4E4" />
       </Color>
       <Color Name="label name">
         <Background Type="CT_INVALID" Source="00000000" />
