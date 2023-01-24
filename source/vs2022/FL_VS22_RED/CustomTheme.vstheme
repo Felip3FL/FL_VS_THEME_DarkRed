@@ -5208,7 +5208,7 @@
       </Color>
       <Color Name="method name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF98C379" />
+        <Foreground Type="CT_RAW" Source="FFDDDA99" />
       </Color>
       <Color Name="extension method name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5232,7 +5232,7 @@
       </Color>
       <Color Name="xml doc comment - attribute name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF98C379" />
+        <Foreground Type="CT_RAW" Source="FFDDDA99" />
       </Color>
       <Color Name="xml doc comment - attribute quotes">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5600,7 +5600,7 @@
       </Color>
       <Color Name="CSS Property Name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF98C379" />
+        <Foreground Type="CT_RAW" Source="FFDDDA99" />
       </Color>
       <Color Name="CSS Property Value">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -5612,7 +5612,7 @@
       </Color>
       <Color Name="HTML Attribute Name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF98C379" />
+        <Foreground Type="CT_RAW" Source="FFDDDA99" />
       </Color>
       <Color Name="HTML Attribute Value">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
