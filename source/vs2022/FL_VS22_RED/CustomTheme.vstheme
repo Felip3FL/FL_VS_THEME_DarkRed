@@ -5164,7 +5164,7 @@
       </Color>
       <Color Name="keyword - control">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFF97D81" />
+        <Foreground Type="CT_RAW" Source="FFDCDCDC" />
       </Color>
       <Color Name="operator - overloaded">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5260,7 +5260,7 @@
       </Color>
       <Color Name="xml doc comment - name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFF97D81" />
+        <Foreground Type="CT_RAW" Source="FF608B4E" />
       </Color>
       <Color Name="xml doc comment - processing instruction">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5432,7 +5432,7 @@
       </Color>
       <Color Name="Preprocessor Keyword">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFF97D81" />
+        <Foreground Type="CT_RAW" Source="FF9B9B9B" />
       </Color>
       <Color Name="Operator">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -5596,7 +5596,7 @@
       </Color>
       <Color Name="CSS Selector">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFF97D81" />
+        <Foreground Type="CT_RAW" Source="FFD7BA7D" />
       </Color>
       <Color Name="CSS Property Name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -5624,7 +5624,7 @@
       </Color>
       <Color Name="HTML Element Name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFF97D81" />
+        <Foreground Type="CT_RAW" Source="FF569CD6" />
       </Color>
       <Color Name="HTML Entity">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
