@@ -36,6 +36,7 @@ Todo código fonte se encontra na pasta **source**
 ## 🛠️ Abrir e rodar o projeto
 
 Use o ``Visual Studio 2022`` para usar este projeto
+Instale a extensão https://marketplace.visualstudio.com/items?itemName=idex.colorthemedesigner2022
 
 
 <BR>  
