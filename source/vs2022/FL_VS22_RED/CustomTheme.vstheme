@@ -4420,15 +4420,15 @@
     </Category>
     <Category Name="InfoBar" GUID="{832df9d1-d9a9-4eb7-ad13-ff5b421f7432}">
       <Color Name="Button">
-        <Background Type="CT_RAW" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFAFAFA" />
+        <Background Type="CT_RAW" Source="FFECECF0" />
+        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="ButtonBorder">
         <Background Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="ButtonDisabled">
-        <Background Type="CT_RAW" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF5C5C5C" />
+        <Background Type="CT_RAW" Source="FFECECF0" />
+        <Foreground Type="CT_RAW" Source="FFA2A4A5" />
       </Color>
       <Color Name="ButtonDisabledBorder">
         <Background Type="CT_RAW" Source="FF3D3D3D" />
