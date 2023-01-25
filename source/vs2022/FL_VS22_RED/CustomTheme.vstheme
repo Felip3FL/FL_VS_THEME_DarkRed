@@ -4583,10 +4583,10 @@
     </Category>
     <Category Name="JavascriptRequiredForMonacoEditor" GUID="{ca939bd0-e6fd-47f6-8a98-effc40dfab02}">
       <Color Name="ThemeColor">
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="PluginFontEditorColor">
-        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+        <Foreground Type="CT_RAW" Source="FFF5F5F5" />
       </Color>
       <Color Name="MonacoGotolineBackgroundColor">
         <Background Type="CT_RAW" Source="FFF6F6F6" />
@@ -4601,7 +4601,7 @@
         <Background Type="CT_RAW" Source="FF3399FF" />
       </Color>
       <Color Name="PluginEditorFocusedSelectedTextBackgroundColor">
-        <Background Type="CT_RAW" Source="FFADD6FF" />
+        <Background Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="PluginEditorSelectedTextBackgroundColor">
         <Background Type="CT_RAW" Source="FFE5EBF1" />
@@ -4646,10 +4646,10 @@
         <Foreground Type="CT_RAW" Source="FF0000FF" />
       </Color>
       <Color Name="PluginFontEditorHtmlElementColor">
-        <Foreground Type="CT_RAW" Source="FF800000" />
+        <Foreground Type="CT_RAW" Source="FFFF6666" />
       </Color>
       <Color Name="PluginFontEditorHtmlTagColor">
-        <Foreground Type="CT_RAW" Source="FF0000FF" />
+        <Foreground Type="CT_RAW" Source="FF0097FB" />
       </Color>
       <Color Name="PluginFontEditorIdentifierColor">
         <Foreground Type="CT_RAW" Source="FF001188" />
@@ -5000,47 +5000,47 @@
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="CategoryTab">
-        <Background Type="CT_RAW" Source="FFF6F6F6" />
-        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF252526" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="MouseOverCategoryTab">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
-        <Foreground Type="CT_RAW" Source="FF424242" />
+        <Background Type="CT_RAW" Source="FF3F3F40" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="TextBoxSelection">
         <Background Type="CT_RAW" Source="FF3399FF" />
       </Color>
       <Color Name="TextBoxBackground">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
-        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="TextBoxBorder">
-        <Background Type="CT_RAW" Source="FFDBDDE6" />
+        <Background Type="CT_RAW" Source="FF3F3F46" />
       </Color>
       <Color Name="TextBoxDisabled">
-        <Background Type="CT_RAW" Source="FFEFEFF2" />
-        <Foreground Type="CT_RAW" Source="FFA2A4A5" />
+        <Background Type="CT_RAW" Source="FF2D2D30" />
+        <Foreground Type="CT_RAW" Source="FF656565" />
       </Color>
       <Color Name="TextBoxDisabledBorder">
-        <Background Type="CT_RAW" Source="FFC6C6C6" />
+        <Background Type="CT_RAW" Source="FF434346" />
       </Color>
       <Color Name="TextBoxMouseOverBorder">
-        <Background Type="CT_RAW" Source="FFDBDDE6" />
+        <Background Type="CT_RAW" Source="FF434346" />
       </Color>
       <Color Name="InputFocusBorder">
         <Background Type="CT_RAW" Source="FF3399FF" />
       </Color>
       <Color Name="EditorContent">
-        <Background Type="CT_RAW" Source="FFF6F6F6" />
-        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF252526" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="CheckBoxMouseOver">
-        <Background Type="CT_RAW" Source="FFF6F6F6" />
-        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF252526" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="CheckBox">
-        <Background Type="CT_RAW" Source="FFF6F6F6" />
-        <Foreground Type="CT_RAW" Source="FF717171" />
+        <Background Type="CT_RAW" Source="FF252526" />
+        <Foreground Type="CT_RAW" Source="FF999999" />
       </Color>
     </Category>
     <Category Name="Performance Tips" GUID="{7a4c6cc9-8404-4b95-af88-f11b657c7268}">
