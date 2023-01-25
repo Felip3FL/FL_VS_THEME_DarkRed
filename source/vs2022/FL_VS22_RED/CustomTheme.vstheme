@@ -1687,24 +1687,24 @@
     </Category>
     <Category Name="ConfigPage" GUID="{699a73b3-57e2-4754-9364-ee80d6852c2f}">
       <Color Name="TabActive">
-        <Background Type="CT_RAW" Source="FFF6F6F6" />
-        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF252526" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="Watermark">
-        <Background Type="CT_RAW" Source="FFF6F6F6" />
-        <Foreground Type="CT_RAW" Source="FF717171" />
+        <Background Type="CT_RAW" Source="FF252526" />
+        <Foreground Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="DescriptionPane">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
-        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF333337" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="Background">
-        <Background Type="CT_RAW" Source="FFF6F6F6" />
-        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF252526" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="TabInactive">
-        <Background Type="CT_RAW" Source="FFFEFEFE" />
-        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF333337" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="TabMouseOver">
         <Background Type="CT_RAW" Source="FF3F3F46" />
