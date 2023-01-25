@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="FL_VS22_RED (6)" GUID="{741d6c1a-fa61-42fd-bd99-9c9ed25a8b0b}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="FL Red" GUID="{741d6c1a-fa61-42fd-bd99-9c9ed25a8b0b}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF1F1F1F" />
