@@ -14,11 +14,10 @@
 </p>
 
 <BR>
+ 
+![Captura de tela 2023-01-25 093403](https://user-images.githubusercontent.com/20684484/214564679-7e292c2e-e247-45d5-96be-7116e670096e.png)
 
 <img src="https://github.com/Felip3FL/FL_VS_THEME_DarkRed/blob/master/Material/VS%20Red%20v20190706.jpg" alt="VS Theme Red">
-
-![Captura de tela 2023-01-25 092001](https://user-images.githubusercontent.com/20684484/214561809-1ade2ba5-1b5c-465e-856d-50f9070ebaad.png)
-
 
 <BR>
 
