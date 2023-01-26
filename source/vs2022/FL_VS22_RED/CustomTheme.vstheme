@@ -9113,5 +9113,49 @@
         <Background Type="CT_RAW" Source="FF282C34" />
       </Color>
     </Category>
+    <Category Name="SolutionErrorFilter" GUID="{669949b4-7f07-4ee5-919a-5d7635b30b7d}">
+      <Color Name="InfoSquiggle">
+        <Background Type="CT_RAW" Source="FF0000FF" />
+      </Color>
+      <Color Name="ErrorListPopup">
+        <Background Type="CT_RAW" Source="FFFCFCFC" />
+        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+      </Color>
+      <Color Name="ErrorListPopupBorder">
+        <Background Type="CT_RAW" Source="FF6DC2E9" />
+      </Color>
+      <Color Name="InfoSquiggleSelectedActive">
+        <Background Type="CT_RAW" Source="FFCCCCFF" />
+      </Color>
+      <Color Name="InfoSquiggleSelectedInactive">
+        <Background Type="CT_RAW" Source="FF0000FF" />
+      </Color>
+      <Color Name="ErrorListHeader">
+        <Background Type="CT_RAW" Source="FFE8E8EC" />
+        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+      </Color>
+      <Color Name="ErrorSquiggle">
+        <Background Type="CT_RAW" Source="FFFF0000" />
+      </Color>
+      <Color Name="WarningSquiggle">
+        <Background Type="CT_RAW" Source="FF008000" />
+      </Color>
+      <Color Name="ErrorSquiggleSelectedActive">
+        <Background Type="CT_RAW" Source="FFFF9999" />
+      </Color>
+      <Color Name="WarningSquiggleSelectedActive">
+        <Background Type="CT_RAW" Source="FFCCFFCC" />
+      </Color>
+      <Color Name="ErrorSquiggleSelectedInactive">
+        <Background Type="CT_RAW" Source="FFFF0000" />
+      </Color>
+      <Color Name="WarningSquiggleSelectedInactive">
+        <Background Type="CT_RAW" Source="FF008000" />
+      </Color>
+      <Color Name="ErrorListSelectedItem">
+        <Background Type="CT_RAW" Source="FFFFF0D0" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
+      </Color>
+    </Category>
   </Theme>
 </Themes>
