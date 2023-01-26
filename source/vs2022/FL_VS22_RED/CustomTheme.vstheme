@@ -6378,6 +6378,10 @@
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
+      <Color Name="MatchColor">
+        <Background Type="CT_RAW" Source="FF6A0003" />
+        <Foreground Type="CT_RAW" Source="FF841ECC" />
+      </Color>
     </Category>
     <Category Name="SearchControl" GUID="{f1095fad-881f-45f1-8580-589e10325eb8}">
       <Color Name="ActionButtonDisabledGlyph">
