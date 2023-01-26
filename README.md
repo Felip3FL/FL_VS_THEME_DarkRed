@@ -1,6 +1,4 @@
-<h1 align="center"> <img src="https://user-images.githubusercontent.com/20684484/214180728-68b4c105-96cd-4281-82f4-d1d00b7c4bbc.png" width="250px" align="center" ><BR><BR>VS22 RED<BR><BR></h1>
-
-<BR>
+<h1 align="center"> <img src="https://user-images.githubusercontent.com/20684484/214180728-68b4c105-96cd-4281-82f4-d1d00b7c4bbc.png" width="240px" align="center" ><BR><BR>VS22 RED</h1>
 
 
 ## 📃 Descrição do projeto
