@@ -5160,7 +5160,7 @@
       </Color>
       <Color Name="string - verbatim">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFdcdcdc" />
+        <Foreground Type="CT_RAW" Source="FFE5C07B" />
       </Color>
       <Color Name="keyword - control">
         <Background Type="CT_INVALID" Source="00000000" />
