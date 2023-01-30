@@ -5152,7 +5152,7 @@
     <Category Name="Roslyn Text Editor MEF Items" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
       <Color Name="preprocessor text">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE5C07B" />
+        <Foreground Type="CT_RAW" Source="FFdcdcdc" />
       </Color>
       <Color Name="punctuation">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5160,7 +5160,7 @@
       </Color>
       <Color Name="string - verbatim">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE5C07B" />
+        <Foreground Type="CT_RAW" Source="FFdcdcdc" />
       </Color>
       <Color Name="keyword - control">
         <Background Type="CT_INVALID" Source="00000000" />
