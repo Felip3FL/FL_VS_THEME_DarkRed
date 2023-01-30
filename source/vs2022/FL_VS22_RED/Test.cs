@@ -9,7 +9,7 @@ namespace FL_VS_RED
 {
     internal class Test
     {
-        public readonly String njhkdwaj;
+        public readonly String TEXT;
         private readonly String asdasd;
         private readonly String retsdf;
         private readonly String jhkferkj;
