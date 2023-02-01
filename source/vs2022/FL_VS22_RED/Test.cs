@@ -42,6 +42,8 @@ namespace FL_VS_RED
                 throw;
             }
 
+            var testestes = await oi2("");
+
             return default;
         }
 
