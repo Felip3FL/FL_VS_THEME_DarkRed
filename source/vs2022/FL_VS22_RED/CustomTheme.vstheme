@@ -1000,7 +1000,7 @@
         <Background Type="CT_RAW" Source="FF007ACC" />
       </Color>
       <Color Name="PopupHover">
-        <Background Type="CT_RAW" Source="FF2D2D30" />
+        <Background Type="CT_RAW" Source="FF717171" />
       </Color>
       <Color Name="TextSelected">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -1018,11 +1018,11 @@
         <Background Type="CT_RAW" Source="FF939393" />
       </Color>
       <Color Name="Popup">
-        <Background Type="CT_RAW" Source="FFFCFCFC" />
-        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF424245" />
+        <Foreground Type="CT_RAW" Source="FFf1f1f1" />
       </Color>
       <Color Name="PopupBorder">
-        <Background Type="CT_RAW" Source="FF6DC2E9" />
+        <Background Type="CT_RAW" Source="FFE96D6D" />
       </Color>
       <Color Name="PopupPinButtonHover">
         <Background Type="CT_RAW" Source="FFDEDFE7" />
@@ -9118,11 +9118,11 @@
         <Background Type="CT_RAW" Source="FF0000FF" />
       </Color>
       <Color Name="ErrorListPopup">
-        <Background Type="CT_RAW" Source="FFFCFCFC" />
-        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF424245" />
+        <Foreground Type="CT_RAW" Source="FFf1f1f1" />
       </Color>
       <Color Name="ErrorListPopupBorder">
-        <Background Type="CT_RAW" Source="FF6DC2E9" />
+        <Background Type="CT_RAW" Source="FFE96D6D" />
       </Color>
       <Color Name="InfoSquiggleSelectedActive">
         <Background Type="CT_RAW" Source="FFCCCCFF" />
