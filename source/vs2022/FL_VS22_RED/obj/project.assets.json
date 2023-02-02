@@ -63,7 +63,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\Felipe\\Source\\FL_VS_THEME_DarkRed\\source\\vs2022\\FL_VS22_RED\\FL_VS22_RED.csproj",
-      "projectName": "FL Red",
+      "projectName": "FL_VS_RED",
       "projectPath": "C:\\Users\\Felipe\\Source\\FL_VS_THEME_DarkRed\\source\\vs2022\\FL_VS22_RED\\FL_VS22_RED.csproj",
       "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Felipe\\Source\\FL_VS_THEME_DarkRed\\source\\vs2022\\FL_VS22_RED\\obj\\",
