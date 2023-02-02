@@ -7393,7 +7393,7 @@
         <Background Type="CT_RAW" Source="FFE4E4E7" />
       </Color>
       <Color Name="TETileListBackground">
-        <Background Type="CT_RAW" Source="FFEEEEF1" />
+        <Background Type="CT_RAW" Source="FF2C2C2F" />
       </Color>
       <Color Name="TETileListForeground">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
@@ -7423,7 +7423,7 @@
         <Background Type="CT_RAW" Source="FF0078D4" />
       </Color>
       <Color Name="EmbeddedDialog">
-        <Background Type="CT_RAW" Source="FFEEEEF1" />
+        <Background Type="CT_RAW" Source="FFC2C2F" />
       </Color>
     </Category>
     <Category Name="Text Editor Language Service Items" GUID="{e0187991-b458-4f7e-8ca9-42c9a573b56c}">
