@@ -21,7 +21,7 @@
 
 ## :hammer: Funcionalidades do projeto
 
-- `Funcionalidade 1`: Apenas um tema 
+- `Funcionalidade 1`: teste
 - `Funcionalidade 2`: Bonito
 - `Funcionalidade 3`: Estiloso 
 
