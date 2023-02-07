@@ -771,7 +771,7 @@
         <Background Type="CT_RAW" Source="FFD4D4D4" />
       </Color>
       <Color Name="SnapshotButtonBorderActive">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFFF3333" />
       </Color>
       <Color Name="SnapshotButtonBorderHover">
         <Background Type="CT_RAW" Source="FF38373A" />
@@ -809,7 +809,7 @@
       </Color>
       <Color Name="SnapshotTileHeader">
         <Background Type="CT_RAW" Source="FFEFEFF2" />
-        <Foreground Type="CT_RAW" Source="FF3399FF" />
+        <Foreground Type="CT_RAW" Source="FFFF3333" />
       </Color>
       <Color Name="TabHeader">
         <Background Type="CT_RAW" Source="FFF4F4F6" />
@@ -883,7 +883,7 @@
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="Progress">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFFF3333" />
       </Color>
       <Color Name="Splitter">
         <Background Type="CT_RAW" Source="FFC8C8C8" />
@@ -984,7 +984,7 @@
         <Background Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="ItemSelectedText">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFFF3333" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="BodyText">
@@ -1076,7 +1076,7 @@
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="Selected Text">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFFF3333" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Inactive Selected Text">
@@ -4285,11 +4285,11 @@
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="Selected Text">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFFF3333" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Current List Location">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFFF3333" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="Inactive Selected Text">
@@ -4357,7 +4357,7 @@
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="Selected Text">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFFF3333" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Inactive Selected Text">
@@ -4406,7 +4406,7 @@
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="Selected Text">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFFF3333" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Inactive Selected Text">
@@ -4598,7 +4598,7 @@
         <Background Type="CT_RAW" Source="FFF0F0F0" />
       </Color>
       <Color Name="MonacoGotolineSelectedBackgroundColor">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFFF3333" />
       </Color>
       <Color Name="PluginEditorFocusedSelectedTextBackgroundColor">
         <Background Type="CT_RAW" Source="00000000" />
@@ -4944,11 +4944,11 @@
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="Selected Text">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFFF3333" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Current List Location">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFFF3333" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="Inactive Selected Text">
@@ -4982,7 +4982,7 @@
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="Selected Text">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFFF3333" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Inactive Selected Text">
@@ -4996,7 +4996,7 @@
     </Category>
     <Category Name="PackageManifestEditor" GUID="{3f27d653-86e6-4a04-adb6-a35efa6c8f05}">
       <Color Name="SelectedCategoryTab">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFFF3333" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="CategoryTab">
@@ -5008,7 +5008,7 @@
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="TextBoxSelection">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFFF3333" />
       </Color>
       <Color Name="TextBoxBackground">
         <Background Type="CT_RAW" Source="FF3F3F46" />
@@ -5028,7 +5028,7 @@
         <Background Type="CT_RAW" Source="FF434346" />
       </Color>
       <Color Name="InputFocusBorder">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFFF3333" />
       </Color>
       <Color Name="EditorContent">
         <Background Type="CT_RAW" Source="FF252526" />
@@ -6646,7 +6646,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Selected Cell">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFFF3333" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Inactive Selected Cell">
@@ -6912,7 +6912,7 @@
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="ButtonBorderHover">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFFF3333" />
       </Color>
       <Color Name="ButtonDisabled">
         <Background Type="CT_RAW" Source="FF2D2D30" />
@@ -6926,13 +6926,13 @@
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="ButtonBorderFocused">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFFF3333" />
       </Color>
       <Color Name="CheckBoxText">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="CheckBoxTextHover">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFFF3333" />
       </Color>
       <Color Name="CheckBoxTextPressed">
         <Background Type="CT_RAW" Source="FFCC0000" />
@@ -6941,7 +6941,7 @@
         <Background Type="CT_RAW" Source="FFA2A4A5" />
       </Color>
       <Color Name="CheckBoxTextFocused">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFFF3333" />
       </Color>
       <Color Name="CheckBoxBackground">
         <Background Type="CT_RAW" Source="FFFEFEFE" />
@@ -6962,7 +6962,7 @@
         <Background Type="CT_RAW" Source="FF717171" />
       </Color>
       <Color Name="CheckBoxBorderHover">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFFF3333" />
       </Color>
       <Color Name="CheckBoxBorderPressed">
         <Background Type="CT_RAW" Source="FFCC0000" />
@@ -6971,7 +6971,7 @@
         <Background Type="CT_RAW" Source="FFC6C6C6" />
       </Color>
       <Color Name="CheckBoxBorderFocused">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFFF3333" />
       </Color>
       <Color Name="CheckBoxGlyph">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
@@ -7411,7 +7411,7 @@
         <Background Type="CT_RAW" Source="FF89BCF1" />
       </Color>
       <Color Name="TETileListBackgroundSelected">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFFF3333" />
       </Color>
       <Color Name="TETileListForegroundSelected">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -7656,7 +7656,7 @@
         <Foreground Type="CT_RAW" Source="FFCA79EC" />
       </Color>
       <Color Name="Current List Location">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFFF3333" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="compiler warning">
@@ -8595,11 +8595,11 @@
     </Category>
     <Category Name="WorkItemEditor" GUID="{2138d120-456d-425e-80b5-88d2401fca23}">
       <Color Name="ActiveControl">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFFF3333" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="ActiveControlBorder">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFFF3333" />
       </Color>
       <Color Name="DefaultControl">
         <Background Type="CT_RAW" Source="FF333333" />
@@ -8687,11 +8687,11 @@
         <Foreground Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="GridActiveRowHeader">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFFF3333" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="GridActiveColumnHeader">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFFF3333" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="GridCell">
@@ -8699,7 +8699,7 @@
         <Foreground Type="CT_RAW" Source="FF525354" />
       </Color>
       <Color Name="GridActiveCell">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFFF3333" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="GridInactiveCell">
@@ -8739,7 +8739,7 @@
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="TagActive">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFFF3333" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="TagHoverGlyphHover">
