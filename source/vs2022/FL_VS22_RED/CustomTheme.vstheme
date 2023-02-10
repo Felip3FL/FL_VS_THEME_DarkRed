@@ -31,7 +31,7 @@
         <Foreground Type="CT_RAW" Source="FF1F1F1F" />
       </Color>
       <Color Name="NumberedListItemActive">
-        <Background Type="CT_RAW" Source="FF403582" />
+        <Background Type="CT_RAW" Source="FF823535" />
         <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="NumberedListItemActiveBorder">
@@ -300,7 +300,7 @@
         <Background Type="CT_RAW" Source="FF707070" />
       </Color>
       <Color Name="CommandPressed">
-        <Background Type="CT_RAW" Source="FF403582" />
+        <Background Type="CT_RAW" Source="FF823535" />
         <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="CommandPressedBorder">
@@ -391,7 +391,7 @@
         <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="Inheritance">
-        <Background Type="CT_RAW" Source="FF403582" />
+        <Background Type="CT_RAW" Source="FF823535" />
       </Color>
       <Color Name="Input">
         <Background Type="CT_RAW" Source="FF1F1F1F" />
@@ -476,7 +476,7 @@
         <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="ListItemSelected">
-        <Background Type="CT_RAW" Source="FF403582" />
+        <Background Type="CT_RAW" Source="FF823535" />
         <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="ListItemSelectedBorder">
@@ -625,7 +625,7 @@
         <Background Type="CT_RAW" Source="B29183EE" />
       </Color>
       <Color Name="TimelineDurationBarIterationLabel">
-        <Background Type="CT_RAW" Source="FF403582" />
+        <Background Type="CT_RAW" Source="FF823535" />
         <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="TimelineDurationBarKeyframeGripper">
@@ -638,7 +638,7 @@
         <Background Type="CT_RAW" Source="B29183EE" />
       </Color>
       <Color Name="TimelineDurationBarLiveIterationLabel">
-        <Background Type="CT_RAW" Source="FF403582" />
+        <Background Type="CT_RAW" Source="FF823535" />
         <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="TimelineDurationBarParent">
@@ -744,7 +744,7 @@
         <Background Type="CT_RAW" Source="FF2E2E2E" />
       </Color>
       <Color Name="TransitionKeyframeClip">
-        <Background Type="CT_RAW" Source="FF403582" />
+        <Background Type="CT_RAW" Source="FF823535" />
       </Color>
       <Color Name="TransitionSliderDisabled">
         <Background Type="CT_RAW" Source="FF333333" />
@@ -1097,7 +1097,7 @@
         <Background Type="CT_RAW" Source="FF3D3D3D" />
       </Color>
       <Color Name="ButtonBorderDefault">
-        <Background Type="CT_RAW" Source="FF403582" />
+        <Background Type="CT_RAW" Source="FF823535" />
       </Color>
       <Color Name="ButtonBorderDisabled">
         <Background Type="CT_RAW" Source="FF3D3D3D" />
@@ -1112,7 +1112,7 @@
         <Background Type="CT_RAW" Source="FF333333" />
       </Color>
       <Color Name="ButtonDefault">
-        <Background Type="CT_RAW" Source="FF403582" />
+        <Background Type="CT_RAW" Source="FF823535" />
         <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="ButtonDisabled">
@@ -2591,10 +2591,10 @@
         <Background Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="DiagReportSecondaryPageTitle">
-        <Background Type="CT_RAW" Source="FF403582" />
+        <Background Type="CT_RAW" Source="FF823535" />
       </Color>
       <Color Name="DiagReportSummaryPageHeader">
-        <Background Type="CT_RAW" Source="FF403582" />
+        <Background Type="CT_RAW" Source="FF823535" />
       </Color>
       <Color Name="DiagReportSummaryPageSubtitle">
         <Background Type="CT_RAW" Source="FF999999" />
@@ -3522,16 +3522,16 @@
         <Background Type="CT_RAW" Source="FF2E2E2E" />
       </Color>
       <Color Name="ProjectDesignerTabSelectedBackground">
-        <Background Type="CT_RAW" Source="FF403582" />
+        <Background Type="CT_RAW" Source="FF823535" />
       </Color>
       <Color Name="ProjectDesignerTabSelectedBorder">
         <Background Type="CT_RAW" Source="FFE86060" />
       </Color>
       <Color Name="ProjectDesignerTabSelectedHighlight1">
-        <Background Type="CT_RAW" Source="FF403582" />
+        <Background Type="CT_RAW" Source="FF823535" />
       </Color>
       <Color Name="ProjectDesignerTabSelectedHighlight2">
-        <Background Type="CT_RAW" Source="FF403582" />
+        <Background Type="CT_RAW" Source="FF823535" />
       </Color>
       <Color Name="ProjectDesignerTabSelectedInsideBorder">
         <Background Type="CT_RAW" Source="FFE86060" />
@@ -3888,7 +3888,7 @@
         <Background Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="StatusBarBuilding">
-        <Background Type="CT_RAW" Source="FF403582" />
+        <Background Type="CT_RAW" Source="FF823535" />
         <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="StatusBarDebugging">
@@ -4509,7 +4509,7 @@
         <Background Type="CT_RAW" Source="FF9183EE" />
       </Color>
       <Color Name="BackgroundHover">
-        <Background Type="CT_RAW" Source="FF403582" />
+        <Background Type="CT_RAW" Source="FF823535" />
       </Color>
       <Color Name="BackgroundPressed">
         <Background Type="CT_RAW" Source="FF9183EE" />
@@ -4760,7 +4760,7 @@
         <Background Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="ResultListItem">
-        <Background Type="CT_RAW" Source="FF403582" />
+        <Background Type="CT_RAW" Source="FF823535" />
         <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="ResultListItemDescriptionText">
@@ -5080,7 +5080,7 @@
         <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="SelectedCategoryTab">
-        <Background Type="CT_RAW" Source="FF403582" />
+        <Background Type="CT_RAW" Source="FF823535" />
         <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
     </Category>
@@ -6859,7 +6859,7 @@
         <Background Type="CT_RAW" Source="FF333333" />
       </Color>
       <Color Name="VideoRSSItemPressed">
-        <Background Type="CT_RAW" Source="FF403582" />
+        <Background Type="CT_RAW" Source="FF823535" />
       </Color>
       <Color Name="VideoRSSItemTitle">
         <Foreground Type="CT_RAW" Source="FFFAFAFA" />
@@ -7748,7 +7748,7 @@
         <Background Type="CT_RAW" Source="FF5648B0" />
       </Color>
       <Color Name="SignInButtonHover">
-        <Background Type="CT_RAW" Source="FF403582" />
+        <Background Type="CT_RAW" Source="FF823535" />
       </Color>
       <Color Name="SignInButtonMouseDown">
         <Background Type="CT_RAW" Source="FFD121D3" />
@@ -7905,7 +7905,7 @@
         <Background Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="TemplateNewTag">
-        <Background Type="CT_RAW" Source="FF403582" />
+        <Background Type="CT_RAW" Source="FF823535" />
         <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="TemplateNewTagSelected">
@@ -8008,7 +8008,7 @@
         <Background Type="CT_RAW" Source="FF707070" />
       </Color>
       <Color Name="DragOverItem">
-        <Background Type="CT_RAW" Source="FF403582" />
+        <Background Type="CT_RAW" Source="FF823535" />
         <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="DragOverItemGlyph">
