@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="FL_VS_RED.e1e706e2-05d3-4da9-8754-652cd8ab65f5" Version="1.23.2.10" Language="en-US" Publisher="Felip3FL" />
+        <Identity Id="FL_VS_RED.e1e706e2-05d3-4da9-8754-652cd8ab65f5" Version="1.23.2.11" Language="en-US" Publisher="Felip3FL" />
         <DisplayName>FL Red Theme</DisplayName>
         <Description xml:space="preserve">Visual Studio 2022 red theme</Description>
         <Icon>VSRed.png</Icon>
