@@ -19,11 +19,10 @@
 
 <BR>
 
-## :hammer: Funcionalidades do projeto
+## 🔨 Funcionalidades do projeto
 
-- `Funcionalidade 1`: Tema vermelho 
-- `Funcionalidade 2`: Bonito
-- `Funcionalidade 3`: Estiloso 
+- `Funcionalidade 1`: Tema escuro com traços em vermelho, para o Visual Studio 2022
+- `Funcionalidade 2`: Tema escuro com vermelho, para o Visual Studio anterior ao 2022
 
 <BR>
   
@@ -35,8 +34,9 @@ Todo código fonte se encontra na pasta **source**
   
 ## 🛠️ Abrir e rodar o projeto
 
-Use o ``Visual Studio 2022`` para usar este projeto<BR>
-Instale a extensão https://marketplace.visualstudio.com/items?itemName=idex.colorthemedesigner2022
+- Use o ``Visual Studio 2022`` para usar este projeto<BR>
+- Baixe e instale a extensão [Visual Studio Color Theme Designer 2022](https://marketplace.visualstudio.com/items?itemName=idex.colorthemedesigner2022) (versão 17.0.6)
+
 
 
 <BR>  
@@ -45,6 +45,7 @@ Instale a extensão https://marketplace.visualstudio.com/items?itemName=idex.col
 <p align="justify">
 &nbsp;&nbsp;<img width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
 &nbsp;&nbsp;<img width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+&nbsp;&nbsp;<img width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </p>
  
 - ``Visual Studio 2022``
