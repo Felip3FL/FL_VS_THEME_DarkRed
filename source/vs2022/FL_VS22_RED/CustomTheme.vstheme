@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="FL Red Theme" GUID="{741d6c1a-fa61-42fd-bd99-9c9ed25a8b0b}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="FL Red Theme" GUID="{6ad6c371-144d-4252-995f-5a3f39d393cc}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF1F1F1F" />
@@ -619,10 +619,10 @@
         <Background Type="CT_RAW" Source="FFD6D6D6" />
       </Color>
       <Color Name="TimelineDurationBarIteration">
-        <Background Type="CT_RAW" Source="4C9183EE" />
+        <Background Type="CT_RAW" Source="4CEE8383" />
       </Color>
       <Color Name="TimelineDurationBarIterationDivider">
-        <Background Type="CT_RAW" Source="B29183EE" />
+        <Background Type="CT_RAW" Source="B2EE8383" />
       </Color>
       <Color Name="TimelineDurationBarIterationLabel">
         <Background Type="CT_RAW" Source="FF823535" />
@@ -632,10 +632,10 @@
         <Background Type="CT_RAW" Source="FFE86060" />
       </Color>
       <Color Name="TimelineDurationBarLiveIteration">
-        <Background Type="CT_RAW" Source="4C9183EE" />
+        <Background Type="CT_RAW" Source="4CEE8383" />
       </Color>
       <Color Name="TimelineDurationBarLiveIterationDivider">
-        <Background Type="CT_RAW" Source="B29183EE" />
+        <Background Type="CT_RAW" Source="B2EE8383" />
       </Color>
       <Color Name="TimelineDurationBarLiveIterationLabel">
         <Background Type="CT_RAW" Source="FF823535" />
@@ -648,7 +648,7 @@
         <Background Type="CT_RAW" Source="FFD6D6D6" />
       </Color>
       <Color Name="TimelineDurationKeyframe">
-        <Background Type="CT_RAW" Source="B29183EE" />
+        <Background Type="CT_RAW" Source="B2EE8383" />
       </Color>
       <Color Name="TimelineDurationLiveKeyframe">
         <Background Type="CT_RAW" Source="FFE86060" />
@@ -988,7 +988,7 @@
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="BodyText">
-        <Background Type="CT_RAW" Source="FFf1f1f1" />
+        <Background Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="DiffViewHighlight">
         <Background Type="CT_RAW" Source="FF3F3F46" />
@@ -1012,14 +1012,14 @@
         <Background Type="CT_RAW" Source="FF939393" />
       </Color>
       <Color Name="TextHover">
-        <Background Type="CT_RAW" Source="FFf1f1f1" />
+        <Background Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="GrayTextHover">
         <Background Type="CT_RAW" Source="FF939393" />
       </Color>
       <Color Name="Popup">
         <Background Type="CT_RAW" Source="FF424245" />
-        <Foreground Type="CT_RAW" Source="FFf1f1f1" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="PopupBorder">
         <Background Type="CT_RAW" Source="FFE96D6D" />
@@ -5149,10 +5149,10 @@
         <Background Type="CT_RAW" Source="FF666666" />
       </Color>
     </Category>
-    <Category Name="Roslyn Text Editor MEF Items" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
+    <Category Name="MatchMargin colors" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
       <Color Name="preprocessor text">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFdcdcdc" />
+        <Foreground Type="CT_RAW" Source="FFDCDCDC" />
       </Color>
       <Color Name="punctuation">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5164,7 +5164,7 @@
       </Color>
       <Color Name="keyword - control">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFd8a0df" />
+        <Foreground Type="CT_RAW" Source="FFD8A0DF" />
       </Color>
       <Color Name="operator - overloaded">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5240,7 +5240,7 @@
       </Color>
       <Color Name="xml doc comment - attribute value">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFd69d85" />
+        <Foreground Type="CT_RAW" Source="FFD69D85" />
       </Color>
       <Color Name="xml doc comment - cdata section">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5520,7 +5520,7 @@
       </Color>
       <Color Name="Line Number">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF8a8a8a" />
+        <Foreground Type="CT_RAW" Source="FF8A8A8A" />
       </Color>
       <Color Name="Selected Line Number">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -5616,7 +5616,7 @@
       </Color>
       <Color Name="HTML Attribute Value">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFd69d85" />
+        <Foreground Type="CT_RAW" Source="FFD69D85" />
       </Color>
       <Color Name="HTML Comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7441,7 +7441,7 @@
       </Color>
       <Color Name="String">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFd69d85" />
+        <Foreground Type="CT_RAW" Source="FFD69D85" />
       </Color>
       <Color Name="Number">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -9119,7 +9119,7 @@
       </Color>
       <Color Name="ErrorListPopup">
         <Background Type="CT_RAW" Source="FF424245" />
-        <Foreground Type="CT_RAW" Source="FFf1f1f1" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="ErrorListPopupBorder">
         <Background Type="CT_RAW" Source="FFE96D6D" />

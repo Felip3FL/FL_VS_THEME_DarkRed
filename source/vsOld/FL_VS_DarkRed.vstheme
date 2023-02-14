@@ -6467,7 +6467,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Peek Background">
-        <Background Type="CT_RAW" Source="FF001F33" />
+        <Background Type="CT_RAW" Source="FF330000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Peek Focused Border">
