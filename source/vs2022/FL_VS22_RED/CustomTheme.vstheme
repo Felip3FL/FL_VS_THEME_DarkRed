@@ -15,7 +15,7 @@
         <Foreground Type="CT_RAW" Source="FF3D3D3D" />
       </Color>
       <Color Name="H1">
-        <Foreground Type="CT_RAW" Source="FF9183EE" />
+        <Foreground Type="CT_RAW" Source="FFEE8484" />
       </Color>
       <Color Name="Hyperlink">
         <Foreground Type="CT_RAW" Source="FF83BEEB" />
@@ -1682,7 +1682,7 @@
         <Background Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="TitleText">
-        <Background Type="CT_RAW" Source="FF9183EE" />
+        <Background Type="CT_RAW" Source="FFEE8484" />
       </Color>
     </Category>
     <Category Name="ConfigPage" GUID="{699a73b3-57e2-4754-9364-ee80d6852c2f}">
@@ -1825,10 +1825,10 @@
         <Background Type="CT_RAW" Source="FF4D4D4D" />
       </Color>
       <Color Name="TargetBackgroundHover">
-        <Background Type="CT_RAW" Source="FF9183EE" />
+        <Background Type="CT_RAW" Source="FFEE8484" />
       </Color>
       <Color Name="TargetBackgroundPressed">
-        <Background Type="CT_RAW" Source="FF9183EE" />
+        <Background Type="CT_RAW" Source="FFEE8484" />
       </Color>
       <Color Name="TargetBorder">
         <Background Type="CT_RAW" Source="FF707070" />
@@ -3765,7 +3765,7 @@
         <Background Type="CT_RAW" Source="FFE86060" />
       </Color>
       <Color Name="SnaplinesPadding">
-        <Background Type="CT_RAW" Source="FF9183EE" />
+        <Background Type="CT_RAW" Source="FFEE8484" />
       </Color>
       <Color Name="SnaplinesTextBaseline">
         <Background Type="CT_RAW" Source="FFE86060" />
@@ -4506,13 +4506,13 @@
         <Background Type="CT_RAW" Source="00FFFFFF" />
       </Color>
       <Color Name="BackgroundFocused">
-        <Background Type="CT_RAW" Source="FF9183EE" />
+        <Background Type="CT_RAW" Source="FFEE8484" />
       </Color>
       <Color Name="BackgroundHover">
         <Background Type="CT_RAW" Source="FF823535" />
       </Color>
       <Color Name="BackgroundPressed">
-        <Background Type="CT_RAW" Source="FF9183EE" />
+        <Background Type="CT_RAW" Source="FFEE8484" />
       </Color>
       <Color Name="Text">
         <Background Type="CT_RAW" Source="FFD6D6D6" />
@@ -4880,7 +4880,7 @@
         <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="WonderbarTreeSelected">
-        <Background Type="CT_RAW" Source="FF9183EE" />
+        <Background Type="CT_RAW" Source="FFEE8484" />
         <Foreground Type="CT_RAW" Source="FF1A1A1A" />
       </Color>
     </Category>
@@ -6838,7 +6838,7 @@
         <Foreground Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="StartPageTitleText">
-        <Foreground Type="CT_RAW" Source="FF9183EE" />
+        <Foreground Type="CT_RAW" Source="FFEE8484" />
       </Color>
       <Color Name="UserConsent">
         <Background Type="CT_RAW" Source="FFE0CFA2" />
