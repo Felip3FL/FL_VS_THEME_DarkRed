@@ -398,3 +398,4 @@ FodyWeavers.xsd
 *.sln.iml
 /source/vs2022/.vs/FL_VS22_RED/v17/.suo
 /source/vs2022/.vs/FL_VS22_RED/FileContentIndex/ebc8c16f-ae8e-4a1a-bcf0-9e60962431de.vsidx
+source/vs2022/FL_VS22_RED/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
