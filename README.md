@@ -7,8 +7,8 @@
  Projeto desenvolvido usando Visual Studio 2022
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green">
-<img src="https://img.shields.io/badge/PROJECT%20VERSION-1.23.2.11-blue">
+<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-red">
+<img src="https://img.shields.io/badge/PROJECT%20VERSION-1.23.2.11-red">
 </p>
 
 <BR>
@@ -43,7 +43,7 @@ Todo código fonte se encontra na pasta **source**
   
 ## ✔️ Técnicas e tecnologias utilizadas
 <p align="justify">
-&nbsp;&nbsp;<img width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+&nbsp;&nbsp;<img width="90" src="https://raw.githubusercontent.com/felip3fl/felip3fl/1a6a66b6a143aab342cf2df18f56d8c1c7e6c8fb/Material/Icon/visual-studio.svg">
 &nbsp;&nbsp;<img width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 &nbsp;&nbsp;<img width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </p>
