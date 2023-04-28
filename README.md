@@ -1,14 +1,14 @@
-<h1 align="center"> <img src="https://user-images.githubusercontent.com/20684484/218092851-6e70de4d-8743-43e5-a27e-b3d84abed562.png" width="220px" align="center" ><BR><BR>FL RED THEME</h1>
+<h3 align="center"> <img src="https://user-images.githubusercontent.com/20684484/218092851-6e70de4d-8743-43e5-a27e-b3d84abed562.png" width="200px" align="center" ><BR><BR>FL RED THEME
+<BR><BR>
+<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-red">
+<img src="https://img.shields.io/badge/PROJECT%20VERSION-1.23.2.11-red">
+</h3>
 
 
 ## 📃 Descrição do projeto
 
 <p align="justify">
  Projeto desenvolvido usando Visual Studio 2022
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-red">
-<img src="https://img.shields.io/badge/PROJECT%20VERSION-1.23.2.11-red">
 </p>
 
 <BR>
