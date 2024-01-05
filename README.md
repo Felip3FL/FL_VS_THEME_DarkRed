@@ -1,9 +1,9 @@
-<h3 align="center"> <img src="https://user-images.githubusercontent.com/20684484/218092851-6e70de4d-8743-43e5-a27e-b3d84abed562.png" width="200px" align="center" ><BR><BR>FL RED THEME
+<h3 align="center"> <img src="https://user-images.githubusercontent.com/20684484/218092851-6e70de4d-8743-43e5-a27e-b3d84abed562.png" width="190px" align="center" ><BR><BR>FL RED THEME
 <BR><BR>
 <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-red">
 <img src="https://img.shields.io/badge/PROJECT%20VERSION-1.23.2.11-red">
 </h3>
-
+<BR>
 
 ## 📃 Descrição do projeto
 
@@ -12,6 +12,7 @@
 </p>
 
 <BR>
+
  
 ![Captura de tela 2023-01-25 093403](https://user-images.githubusercontent.com/20684484/214564679-7e292c2e-e247-45d5-96be-7116e670096e.png)
 
