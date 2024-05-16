@@ -105,6 +105,10 @@
           "Microsoft.VisualStudio.VsixColorCompiler": {
             "target": "Package",
             "version": "[17.0.31709.430, )"
+          },
+          "Microsoft.VisualStudio.VsixColorCompiler": {
+            "target": "Package",
+            "version": "[17.0.31709.430, )"
           }
         }
       }
