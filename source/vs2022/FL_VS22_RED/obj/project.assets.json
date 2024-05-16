@@ -17,6 +17,14 @@
         }
       }
     },
+    ".NETFramework,Version=v4.7.2/win-arm64": {
+      "Microsoft.VisualStudio.VsixColorCompiler/17.0.31709.430": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.VisualStudio.VsixColorCompiler.targets": {}
+        }
+      }
+    },
     ".NETFramework,Version=v4.7.2/win-x64": {
       "Microsoft.VisualStudio.VsixColorCompiler/17.0.31709.430": {
         "type": "package",
@@ -57,20 +65,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Felipe\\.nuget\\packages\\": {}
+    "C:\\Users\\felip\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Felipe\\Source\\FL_VS_THEME_DarkRed\\source\\vs2022\\FL_VS22_RED\\FL_VS22_RED.csproj",
+      "projectUniqueName": "C:\\Users\\felip\\Source\\FL_VS_THEME_DarkRed\\source\\vs2022\\FL_VS22_RED\\FL_VS22_RED.csproj",
       "projectName": "FL Red",
-      "projectPath": "C:\\Users\\Felipe\\Source\\FL_VS_THEME_DarkRed\\source\\vs2022\\FL_VS22_RED\\FL_VS22_RED.csproj",
-      "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Felipe\\Source\\FL_VS_THEME_DarkRed\\source\\vs2022\\FL_VS22_RED\\obj\\",
+      "projectPath": "C:\\Users\\felip\\Source\\FL_VS_THEME_DarkRed\\source\\vs2022\\FL_VS22_RED\\FL_VS22_RED.csproj",
+      "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\felip\\Source\\FL_VS_THEME_DarkRed\\source\\vs2022\\FL_VS22_RED\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -84,6 +92,11 @@
         "net472": {
           "projectReferences": {}
         }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -98,6 +111,9 @@
     },
     "runtimes": {
       "win": {
+        "#import": []
+      },
+      "win-arm64": {
         "#import": []
       },
       "win-x64": {
