@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\felip\\Source\\FL_VS_THEME_DarkRed\\source\\vs2022\\FL_VS22_RED\\FL_VS22_RED.csproj": {}
+    "E:\\FL_VS_THEME_DarkRed\\source\\vs2022\\FL_VS22_RED\\FL_VS22_RED.csproj": {}
   },
   "projects": {
-    "C:\\Users\\felip\\Source\\FL_VS_THEME_DarkRed\\source\\vs2022\\FL_VS22_RED\\FL_VS22_RED.csproj": {
+    "E:\\FL_VS_THEME_DarkRed\\source\\vs2022\\FL_VS22_RED\\FL_VS22_RED.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felip\\Source\\FL_VS_THEME_DarkRed\\source\\vs2022\\FL_VS22_RED\\FL_VS22_RED.csproj",
+        "projectUniqueName": "E:\\FL_VS_THEME_DarkRed\\source\\vs2022\\FL_VS22_RED\\FL_VS22_RED.csproj",
         "projectName": "FL Red",
-        "projectPath": "C:\\Users\\felip\\Source\\FL_VS_THEME_DarkRed\\source\\vs2022\\FL_VS22_RED\\FL_VS22_RED.csproj",
+        "projectPath": "E:\\FL_VS_THEME_DarkRed\\source\\vs2022\\FL_VS22_RED\\FL_VS22_RED.csproj",
         "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felip\\Source\\FL_VS_THEME_DarkRed\\source\\vs2022\\FL_VS22_RED\\obj\\",
+        "outputPath": "E:\\FL_VS_THEME_DarkRed\\source\\vs2022\\FL_VS22_RED\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
