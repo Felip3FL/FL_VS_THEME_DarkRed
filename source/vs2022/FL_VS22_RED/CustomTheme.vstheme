@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="FL Red Theme (4)" GUID="{d140834a-ed07-4b62-98db-81c1af16c1ff}" BaseGUID="{6ad6c371-144d-4252-995f-5a3f39d393cc}">
+  <Theme Name="FL Red Theme" GUID="{0b55bb11-77f2-4f37-b4a5-8f3f56898c83}" BaseGUID="{d52809a6-265c-41a4-8cdf-70fa74f0b589}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF1F1F1F" />
@@ -1913,6 +1913,12 @@
       </Color>
       <Color Name="VizSurfaceStrongBlue">
         <Background Type="CT_RAW" Source="FF0078D4" />
+      </Color>
+      <Color Name="TreeContentSelectedHyperlink">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="TreeContentSelectedHyperlinkHover">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
     </Category>
     <Category Name="ToolTips" GUID="{a9a5637f-b2a8-422e-8fb5-dfb4625f0111}">
@@ -6457,7 +6463,15 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="StickyScroll Background">
-        <Background Type="CT_RAW" Source="FF280000" />
+        <Background Type="CT_RAW" Source="FF141414" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="inlay hints type">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="inlay hints parameter">
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
     </Category>
@@ -9844,6 +9858,9 @@
       <Color Name="SystemFillSuccessBackground">
         <Background Type="CT_RAW" Source="FFDFF6DD" />
       </Color>
+      <Color Name="SubtleFillDisabled">
+        <Background Type="CT_RAW" Source="00000000" />
+      </Color>
     </Category>
     <Category Name="ShellInternal" GUID="{5af241b7-5627-4d12-bfb1-2b67d11127d7}">
       <Color Name="EnvironmentBackground">
@@ -9906,6 +9923,63 @@
       <Color Name="ChangedText">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+    </Category>
+    <Category Name="AI" GUID="{7730ec54-ee62-4fd2-86cc-77071aabb206}">
+      <Color Name="PrimaryHighlight">
+        <Background Type="CT_RAW" Source="FF7160E8" />
+      </Color>
+      <Color Name="PromptSuggestionBorder">
+        <Background Type="CT_RAW" Source="5C7160E8" />
+      </Color>
+      <Color Name="TagAdornerBackground">
+        <Background Type="CT_RAW" Source="C2F3F3F3" />
+      </Color>
+      <Color Name="TagAdornerBorder">
+        <Background Type="CT_RAW" Source="FFE8E8E8" />
+      </Color>
+      <Color Name="TagAdornerForeground">
+        <Background Type="CT_RAW" Source="E4000000" />
+      </Color>
+    </Category>
+    <Category Name="Chat" GUID="{9e237087-2ccf-49c1-8c85-974b201581e3}">
+      <Color Name="BubbleOtherBackground">
+        <Background Type="CT_RAW" Source="FFF5F5F5" />
+      </Color>
+      <Color Name="BubbleOtherBorder">
+        <Background Type="CT_RAW" Source="FFF5F5F5" />
+      </Color>
+      <Color Name="BubbleSelfBackground">
+        <Background Type="CT_RAW" Source="1F7160E8" />
+      </Color>
+      <Color Name="BubbleSelfBorder">
+        <Background Type="CT_RAW" Source="1F7160E8" />
+      </Color>
+    </Category>
+    <Category Name="EditorOverride" GUID="{656339d7-0e39-43e2-98aa-becc3f87ffa5}">
+      <Color Name="PopupBackground">
+        <Background Type="CT_RAW" Source="FFF6F6F6" />
+      </Color>
+      <Color Name="PopupBorder">
+        <Background Type="CT_RAW" Source="FFCCCEDB" />
+      </Color>
+      <Color Name="PopupLink">
+        <Background Type="CT_RAW" Source="FF006CBE" />
+      </Color>
+      <Color Name="PopupSelectedBackground">
+        <Background Type="CT_RAW" Source="FFCCCEDB" />
+      </Color>
+      <Color Name="PopupSelectedText">
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
+      </Color>
+      <Color Name="PopupShadow">
+        <Background Type="CT_RAW" Source="72000000" />
+      </Color>
+      <Color Name="PopupSubtleText">
+        <Background Type="CT_RAW" Source="FF808080" />
+      </Color>
+      <Color Name="PopupText">
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
     </Category>
   </Theme>
