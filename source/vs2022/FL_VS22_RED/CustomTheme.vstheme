@@ -4336,6 +4336,14 @@
         <Background Type="CT_RAW" Source="FF0078D7" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
+      <Color Name="outlining.chevron.expanded">
+        <Background Type="CT_RAW" Source="FF252526" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
+      </Color>
+      <Color Name="outlining.chevron.collapsed">
+        <Background Type="CT_RAW" Source="FF252526" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
+      </Color>
     </Category>
     <Category Name="Folder Difference" GUID="{b36b0228-dbad-4db0-b9c7-2ad3e572010f}">
       <Color Name="Different content">
@@ -6473,6 +6481,14 @@
       <Color Name="inlay hints parameter">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="outlining.chevron.expanded">
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Foreground Type="CT_RAW" Source="FFDCDCDC" />
+      </Color>
+      <Color Name="outlining.chevron.collapsed">
+        <Background Type="CT_RAW" Source="FF1E1E1E" />
+        <Foreground Type="CT_RAW" Source="FFDCDCDC" />
       </Color>
     </Category>
     <Category Name="SearchControl" GUID="{f1095fad-881f-45f1-8580-589e10325eb8}">
