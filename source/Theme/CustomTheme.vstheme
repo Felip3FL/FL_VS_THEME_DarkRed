@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="FL Red Theme" GUID="{0b55bb11-77f2-4f37-b4a5-8f3f56898c83}" BaseGUID="{d52809a6-265c-41a4-8cdf-70fa74f0b589}">
+  <Theme Name="FL Red Theme" GUID="{0b55bb11-77f2-4f37-b4a5-8f3f56898c83}" BaseGUID="{33dee8b3-f39a-416c-b39b-baba37dfa442}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF1F1F1F" />
@@ -8218,6 +8218,9 @@
       <Color Name="IDCardText">
         <Background Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
+      <Color Name="ActiveAccountText">
+        <Foreground Type="CT_RAW" Source="FFFC00FF" />
+      </Color>
     </Category>
     <Category Name="UserNotifications" GUID="{5d42b198-efca-431c-92aa-8b595d0d39c2}">
       <Color Name="BadgeButtonCountActive">
@@ -9877,6 +9880,9 @@
       <Color Name="SubtleFillDisabled">
         <Background Type="CT_RAW" Source="00000000" />
       </Color>
+      <Color Name="ControlStrokeTransparent">
+        <Background Type="CT_RAW" Source="FFFC00FF" />
+      </Color>
     </Category>
     <Category Name="ShellInternal" GUID="{5af241b7-5627-4d12-bfb1-2b67d11127d7}">
       <Color Name="EnvironmentBackground">
@@ -9929,6 +9935,9 @@
       </Color>
       <Color Name="StatusBarFillDebuggingBackground">
         <Background Type="CT_RAW" Source="FFBC4B09" />
+      </Color>
+      <Color Name="StatusBarTextFillDisabled">
+        <Background Type="CT_RAW" Source="B2FFFFFF" />
       </Color>
     </Category>
     <Category Name="TextVisualizer" GUID="{036d356b-f2fe-45f8-bceb-7fcc4daf2023}">
